@@ -1,10 +1,3 @@
-//
-//  ada_project.c
-//
-//
-//  Created by Shashi Upadhyay on 19/02/16.
-//
-//
 
 #include <stdio.h>
 #include <stdlib.h>
